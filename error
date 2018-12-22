@@ -1,0 +1,13 @@
+
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("please enter number of book:");
+            int[] book;
+            int n;
+            book = new int[n];
+            n = int.Parse(Console.ReadLine());
+            Console.WriteLine("please number of parts:");
+            int[] parts;
+            int n;
+            parts = new int[n];
+            n = int.Parse(Console.ReadLine());
